@@ -1,1 +1,1 @@
-# lol-stuff
+# lol-stuff - Responsive LandingPage
