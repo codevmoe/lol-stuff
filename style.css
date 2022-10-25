@@ -1,0 +1,12 @@
+.btn-primary {
+    background-color: rgb(0, 66, 249);
+}
+
+.btn-primary:hover {
+    color: black;
+    background-color: rgba(39, 95, 245, 0.5);
+}
+
+.bold {
+    font-weight: bold;
+}
